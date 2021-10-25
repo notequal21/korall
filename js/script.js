@@ -29,7 +29,7 @@ const swiper = new Swiper('.swiper-subitem', {
             spaceBetween: 5
         },
         992: {
-            slidesPerView: 5,
+            slidesPerView: 4,
             spaceBetween: 4
         }
     }
