@@ -870,6 +870,7 @@ body {
   display: -ms-flexbox;
   display: flex;
   background-color: #66d8f0;
+  color: #fff;
 }
 
 .spec-col__price-col {
